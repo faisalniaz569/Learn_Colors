@@ -1,0 +1,10 @@
+Search google
+
+Color Schemes:
+==============
+
+1. Monochromatic Color Schemes
+2. Analogous Color Schemes
+3. Complementary Color Schemes
+4. Triadic Color Schemes
+5. Compound Color Schemes
