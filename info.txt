@@ -1,1 +1,21 @@
+Color palette:
 https://colorpalettes.net/
+
+Color contrast:
+https://www.viget.com/articles/color-contrast/
+
+color combination:
+https://www.canva.com/learn/100-color-combinations/
+
+color Theory:
+https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php#:~:text=Black%20text%20on%20a%20white,optimal%20readability%20for%20body%20text.
+
+Flat ui color:
+** https://flatuicolors.com/palette/defo
+** https://flatuicolors.com/
+
+Adobe:
+https://color.adobe.com/create/color-wheel
+
+color web:
+http://www.colorsontheweb.com/
