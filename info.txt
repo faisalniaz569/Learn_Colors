@@ -1,5 +1,7 @@
 Color palette:
 https://colorpalettes.net/
+https://coolors.co/
+https://colors.muz.li/
 
 Color contrast:
 https://www.viget.com/articles/color-contrast/
@@ -25,3 +27,6 @@ https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-d
 
 color text with background color:
 http://colorsafe.co/
+
+paletton:
+https://paletton.com/#uid=1430u0kllllaFw0g0qFqFg0w0aF
