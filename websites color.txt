@@ -1,0 +1,37 @@
+>> corporate websites color:
+
+#FBC236, #FFC540, #F0840F, #6545D4, #2186BD, #32BFE5, #FF6139, #E62325
+
+>> Education websites color:
+
+#4C3CF5, #0D34AB
+
+>> E-Commerce websites color:
+
+#FEE001, #60BABE
+
+>> Newspaper/Magazine websites color:
+
+#1a1a1a, #FF1E11, #FF1849, #FAE121, #FDFDFD
+
+>> Restaurent Websites color:
+
+#DD5903, #FFCE1C, #E6272C, #CC3333, #79A1BB
+
+>> Medical Websites color:
+
+#42B3E5, #00D8F1
+
+>> School websites color:
+
+#FF9B24, #00BBAE
+
+>> Wedding websites color:
+
+#F0394D, #8BABA4, #EA706A
+
+
+
+
+
+
