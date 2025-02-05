@@ -1,3 +1,18 @@
+Some link:
+1. http://colormind.io/
+
+2. https://coolors.co/
+
+3. https://htmlcolorcodes.com/tutorials/html-link-color/
+
+4. https://color.adobe.com/create/color-wheel
+
+5. https://www.flatuicolorpicker.com/
+
+6. https://flatuicolors.com/
+
+7. https://worqx.com/color/palette.htm
+
 Color palette:
 https://colorpalettes.net/
 https://coolors.co/
