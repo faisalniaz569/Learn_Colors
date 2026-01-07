@@ -1,49 +1,39 @@
-Some link:
-1. http://colormind.io/
+>> corporate websites color: (done)
 
-2. https://coolors.co/
+#FBC236, #FFC540, #F0840F, #6545D4, #2186BD, #32BFE5, #FF6139, #E62325
 
-3. https://htmlcolorcodes.com/tutorials/html-link-color/
+>> Education websites color: (done)
 
-4. https://color.adobe.com/create/color-wheel
+#4C3CF5, #0D34AB
 
-5. https://www.flatuicolorpicker.com/
+>> E-Commerce websites color:
 
-6. https://flatuicolors.com/
+#FEE001, #60BABE
 
-7. https://worqx.com/color/palette.htm
+>> Newspaper/Magazine websites color:
 
-8. https://www.color-hex.com/
+#1a1a1a, #FF1E11, #FF1849, #FAE121, #FDFDFD
 
-Color palette:
-https://colorpalettes.net/
-https://coolors.co/
-https://colors.muz.li/
+>> Restaurant Websites color: (done)
 
-Color contrast:
-https://www.viget.com/articles/color-contrast/
+#DD5903, #FFCE1C, #E6272C, #CC3333, #79A1BB
 
-color combination:
-https://www.canva.com/learn/100-color-combinations/
+>> Medical Websites color: (done)
 
-color Theory:
-https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php#:~:text=Black%20text%20on%20a%20white,optimal%20readability%20for%20body%20text.
+#42B3E5, #00D8F1
 
-Flat ui color:
-** https://flatuicolors.com/palette/defo
-** https://flatuicolors.com/
+>> School websites color:
 
-Adobe:
-https://color.adobe.com/create/color-wheel
+#FF9B24, #00BBAE
 
-color web:
-http://www.colorsontheweb.com/
+>> Wedding websites color:
 
-uxmeter color:
-https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php#:~:text=Black%20text%20on%20a%20white,optimal%20readability%20for%20body%20text.
+#F0394D, #8BABA4, #EA706A
 
-color text with background color:
-http://colorsafe.co/
 
-paletton:
-https://paletton.com/#uid=1430u0kllllaFw0g0qFqFg0w0aF
+
+
+
+
+
+
