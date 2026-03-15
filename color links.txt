@@ -1,1 +1,14 @@
-This is color links info
+1) https://colorpalettes.net/
+2) https://coolors.co/
+3) https://colors.muz.li/
+4) https://www.viget.com/articles/color-contrast/
+5) https://www.canva.com/learn/100-color-combinations/
+6) https://flatuicolors.com/
+7) https://flatuicolors.com/palette/defo
+8) https://color.adobe.com/create/color-wheel
+9) http://www.colorsontheweb.com/
+
+color text with background color:
+10) http://colorsafe.co/
+11) https://paletton.com/
+
